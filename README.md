@@ -1,10 +1,8 @@
-# Big-Data---Recommender-Systems
-this is one of the assignments for the Big data module for my MSc in IoT Data Science
+# Big-Data Recommender Systems
+This is one of the assignments for the Big data module for my MSc in IoT Data Science
 
-%md
 # **Task 2** - Steam 200k Dataset
 
-%md
 # Table of Contents
 
 ## 1. Load Data
